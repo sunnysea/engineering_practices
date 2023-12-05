@@ -34,3 +34,5 @@ _Execution_Policies по адресу https:/go.microsoft.com/fwlink/?LinkID=135
 - `poetry run black Task_1.py`
 - `poetry run flake8 Task_1.py`
 - `poetry run pylint Task_1.py`
+
+![image](https://github.com/sunnysea/engineering_practices/assets/78918468/c2643ee4-3cfc-40fc-85cc-a00990be304f)
