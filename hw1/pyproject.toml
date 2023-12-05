@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "hw1"
+version = "0.1.0"
+description = "New hw1 for this lessons"
+authors = ["Pauline Shuvalova <polli.shuvalova.99@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.26.2"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.11.0"
+flake8 = "^6.1.0"
+pylint = "^3.0.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
