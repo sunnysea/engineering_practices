@@ -1,6 +1,10 @@
 # engineering_practices
 Homeworks for engineering practices. HSE, 2023.
 
+Мной был взят для форматирования питоновский файл, в котором находится домашнее задание для одного из предметов.
+
+Установка:
+
 `pip install poetry`
 
 `poetry new hw1`
