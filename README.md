@@ -9,7 +9,7 @@ Homeworks for engineering practices. HSE, 2023.
 
 `poetry add --dev black ruff isort`
 
-Тут возникла проблема с версией питона, и я очень много времени потеряла на установке версии 3.10.
+Тут возникла проблема с версией питона, и я очень много времени потеряла на установке версии 3.10. Изначально у меня была версия 3.7.
 
 `poetry add numpy`
 
@@ -22,10 +22,11 @@ ts\activate.ps1, так как выполнение сценариев откл�
 _Execution_Policies по адресу https:/go.microsoft.com/fwlink/?LinkID=135170.
     + CategoryInfo          : Ошибка безопасности: (:) [], ParentContainsErrorRecordException
     + FullyQualifiedErrorId : UnauthorizedAccess*`
-
+Потом я ее ка-то починила, как и версию питона.
 `poetry build`
 
+Итого форматирование кода:
 
-`poetry run black Task_1.py`
-`poetry run flake8 Task_1.py`
-`poetry run pylint Task_1.py`
+- `poetry run black Task_1.py`
+- `poetry run flake8 Task_1.py`
+- `poetry run pylint Task_1.py`
