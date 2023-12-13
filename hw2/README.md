@@ -17,5 +17,5 @@ Homeworks for engineering practices. HSE, 2023.
 
 Обновлять файлы - изменять локально, делать коммит. Вернуться к первоначальной версии с гита: `git reset --hard origin/main`.
 
-Получить данные: `git clone https://github.com/sunnysea/engineering_practices/tree/360eefe64b588bdfe80809302134e2f68cdab2a8/hw2`
+Получить данные: `git clone https://github.com/sunnysea/engineering_practices.git`
 
