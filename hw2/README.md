@@ -5,6 +5,8 @@ Homeworks for engineering practices. HSE, 2023.
 
 Инструмент для версионирования данных, который будет использоваться в данной работе: *LFS (Git Large File Storage)*
 
+(Данные взяты из одной из лабораторных работ в ВШЭ.)
+
 - Скачиваем инструмент: 
 `sudo apt-get install git-lfs`, `git lfs install`.
 
